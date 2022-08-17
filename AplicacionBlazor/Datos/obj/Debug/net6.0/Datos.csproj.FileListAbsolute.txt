@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\bin\Debug\net6.0\Modelos.dll
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\alexa\OneDrive\Documentos\Lenguaje 3\ProyectoGrupo-3\AplicacionBlazor\Datos\obj\Debug\net6.0\ref\Datos.dll
